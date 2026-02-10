@@ -33,7 +33,7 @@ const Products = () => {
     if (loading) return <h2>Loading products data.!</h2>
     return (
         <>
-            <h1>Exlpore Our Products</h1>
+            <h1>Our Products</h1>
             <div className="product-container">
 
                 {
